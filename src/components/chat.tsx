@@ -46,7 +46,7 @@ export const Chat = () => {
 
               <p className="leading-relaxed text-slate-11">
                 <span className="block font-bold text-white">
-                  {message.role === "user" ? "Geziel" : "AI"}
+                  {message.role === "user" ? "Human" : "AI"}
                 </span>
                 {message.content}
               </p>

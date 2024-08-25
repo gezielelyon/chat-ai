@@ -46,7 +46,7 @@ The technologies used on the project development are listed below.
 
 ## **Images**
 
-![Image](https://github.com/user-attachments/assets/be1e4008-6578-4f65-b381-64b0d433e84b)
+![Image](https://github.com/user-attachments/assets/a075d86f-8c9c-41eb-a3cc-52cc01e2cf78)
 
 <kbd>[&uarr; Summary](#summary)</kbd>
 
